@@ -1,0 +1,14 @@
+filename	acq_time
+anat/sub-010_ses-003_acq-acqAxialNsig1Mm1_rec-VISACT_run-1_T1w.nii.gz	1925-01-01T09:39:02
+fmap/sub-010_ses-003_acq-Mb4Mm2Tr1600topup_dir-PA_run-01_epi.nii.gz	1925-01-01T09:39:02
+fmap/sub-010_ses-003_acq-Mb4Mm2Tr1600topup_dir-PA_run-02_epi.nii.gz	1925-01-01T09:39:02
+fmap/sub-010_ses-003_acq-Mb4Mm2Tr1600topup_dir-PA_run-03_epi.nii.gz	1925-01-01T09:39:02
+fmap/sub-010_ses-003_acq-Mb4Mm2Tr1600topup_dir-PA_run-04_epi.nii.gz	1925-01-01T09:39:02
+fmap/sub-010_ses-003_acq-Mb4Mm2Tr1600topup_dir-PA_run-05_epi.nii.gz	1925-01-01T09:39:02
+fmap/sub-010_ses-003_acq-Mb4Mm2Tr1600topup_dir-PA_run-06_epi.nii.gz	1925-01-01T09:39:02
+func/sub-010_ses-003_task-VISACT_acq-Mb4Mm2Tr1600_dir-AP_run-01_bold.nii.gz	1925-01-01T09:39:02
+func/sub-010_ses-003_task-VISACT_acq-Mb4Mm2Tr1600_dir-AP_run-02_bold.nii.gz	1925-01-01T09:39:02
+func/sub-010_ses-003_task-VISACT_acq-Mb4Mm2Tr1600_dir-AP_run-03_bold.nii.gz	1925-01-01T09:39:02
+func/sub-010_ses-003_task-VISACT_acq-Mb4Mm2Tr1600_dir-AP_run-04_bold.nii.gz	1925-01-01T09:39:02
+func/sub-010_ses-003_task-VISACT_acq-Mb4Mm2Tr1600_dir-AP_run-05_bold.nii.gz	1925-01-01T09:39:02
+func/sub-010_ses-003_task-VISACT_acq-Mb4Mm2Tr1600_dir-AP_run-06_bold.nii.gz	1925-01-01T09:39:02
