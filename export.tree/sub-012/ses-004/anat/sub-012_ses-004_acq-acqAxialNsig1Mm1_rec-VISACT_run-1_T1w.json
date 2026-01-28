@@ -1,0 +1,26 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "acq-AxialNsig1Mm1_T1w",
+    "SeriesNumber": 2,
+    "AcquisitionNumber": 2,
+    "ImageComments": "VISACT",
+    "PhilipsRescaleSlope": 4.8823,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00464418,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00377,
+    "RepetitionTime": 0.008244,
+    "InversionTime": 0.9,
+    "ImageOrientationPatientDICOM": [
+        0.996189,
+        0.044777,
+        0.0748432,
+        -0.0384439,
+        0.995722,
+        -0.0840174
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20211006"
+}

@@ -1,0 +1,28 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "ScenePRF_run01",
+    "SeriesNumber": 7,
+    "AcquisitionNumber": 7,
+    "ImageComments": "VISACT",
+    "PhilipsRescaleSlope": 0.78388,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0135078,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.02763,
+    "RepetitionTime": 2,
+    "ImageOrientationPatientDICOM": [
+        0.995745,
+        -0.0629207,
+        0.0673265,
+        0.0706772,
+        0.990276,
+        -0.119828
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20211006",
+    "TaskName": "ScenePRF",
+    "TotalReadoutTime": 0.0269452,
+    "PhaseEncodingDirection": "j"
+}
