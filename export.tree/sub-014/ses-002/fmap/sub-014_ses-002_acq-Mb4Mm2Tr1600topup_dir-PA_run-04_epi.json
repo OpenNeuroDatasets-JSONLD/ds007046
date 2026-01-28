@@ -1,0 +1,31 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "task-(Visact)_acq-Mb4Mm2Tr1600_run-(04)_topup",
+    "SeriesNumber": 10,
+    "AcquisitionNumber": 10,
+    "ImageComments": "VISACT",
+    "PhilipsRescaleSlope": 0.83248,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0899142,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.03,
+    "RepetitionTime": 1.6,
+    "ImageOrientationPatientDICOM": [
+        0.999002,
+        -0.0311938,
+        0.0319801,
+        0.0324421,
+        0.998701,
+        -0.0392889
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20211006",
+    "IntendedFor": [
+        "ses-002/func/sub-014_ses-002_task-VISACT_acq-Mb4Mm2Tr1600_dir-AP_run-04_bold.nii.gz"
+    ],
+    "TotalReadoutTime": 0.0538836,
+    "PhaseEncodingDirection": "j-",
+    "TaskName": "VISACT"
+}

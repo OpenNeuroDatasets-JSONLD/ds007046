@@ -1,0 +1,31 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "CategorySix_run02_topup",
+    "SeriesNumber": 6,
+    "AcquisitionNumber": 6,
+    "ImageComments": "VISACT",
+    "PhilipsRescaleSlope": 0.75385,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0254653,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.02763,
+    "RepetitionTime": 2,
+    "ImageOrientationPatientDICOM": [
+        0.997922,
+        0.0536003,
+        0.0357732,
+        -0.0489811,
+        0.991633,
+        -0.119435
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20211006",
+    "IntendedFor": [
+        "ses-001/func/sub-001_ses-001_task-CategorySix_acq-localizer_dir-AP_run-02_bold.nii.gz"
+    ],
+    "TaskName": "CategorySix",
+    "TotalReadoutTime": 0.0269452,
+    "PhaseEncodingDirection": "j-"
+}
