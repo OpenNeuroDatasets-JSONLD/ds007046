@@ -12,7 +12,7 @@
     "License": "CC0",
     "Authors": [
         "Clemens G. Bartnik",
-        "Steven Scholte", 
+        "Steven Scholte",
         "Iris I.A. Groen"
     ],
     "Acknowledgements": "This work was supported by a Veni grant (VI.Veni.194030) from the Netherlands Organisation for Scientific Research to Iris I.A. Groen. We thank Steven Bommera and Nikolina Vukšića who helped collecting the data for the project.",
@@ -27,5 +27,5 @@
         "https://doi.org/10.1073/pnas.2414005122",
         "https://osf.io/v3rcq/overview"
     ],
-    "DatasetDOI": "OPTIONAL. The Document Object Identifier of the dataset (not the corresponding paper)"
+    "DatasetDOI": "doi:10.18112/openneuro.ds007046.v1.0.0"
 }
